@@ -1,0 +1,50 @@
+# === Python cache and logs ===
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# === Jupyter and IPython junk ===
+.ipynb_checkpoints/
+
+# === VSCode workspace ===
+.vscode/
+
+# === Raw data ===
+*.sav
+data/raw/
+original_data/
+
+# === DO track processed files ===
+!data/processed/
+!*.csv
+!*.json
+!*.ipynb# === Mac system files ===
+.DS_Store
+
+# === Python cache and logs ===
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# === Jupyter and IPython junk ===
+.ipynb_checkpoints/
+
+# === VSCode workspace ===
+.vscode/
+
+# === Raw data ===
+*.sav
+data/raw/
+original_data/
+
+# === DO track processed files ===
+!data/processed/
+!*.csv
+!*.json
+!*.ipynb
+
+# === Mac system files ===
+.DS_Storenotebooks/enigh_db
+notebooks/enigh_db
